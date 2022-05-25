@@ -5,7 +5,7 @@
 	<version>0.0.1</version>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>4.0.5.RELEASE</spring.version>
+		<spring.version>5.2.22.RELEASE</spring.version>
  	<!--dubbo 2.4.10依赖sping2.5架包 会导致冲突 -->
 		 <dubbo.version>2.4.10</dubbo.version>
 		  <zkclient.version>0.1</zkclient.version>
